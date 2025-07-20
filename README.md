@@ -4,25 +4,27 @@
 [![Auto-Updated](https://img.shields.io/badge/Auto--Updated-Daily-brightgreen.svg)](https://github.com/GuanchengWan/awesome-ai-ml-papers-auto)
 [![AI-Powered](https://img.shields.io/badge/AI--Powered-Real--Data-orange.svg)](https://github.com/GuanchengWan/awesome-ai-ml-papers-auto)
 
-> 🤖 **Automatically curated collection of trending AI/ML research papers**  
+> 🤖 **Automatically curated collection of trending AI/ML research papers and awesome lists**  
 > 📅 **Last Updated**: July 20, 2025  
-> 🔍 **Data Source**: Real arXiv papers from last 7 days  
-> 📊 **Papers Curated**: 200 high-quality papers  
+> 🔍 **Data Source**: Real arXiv papers + GitHub trending awesome lists  
+> 📊 **Content**: 200 papers + 15 awesome lists  
 > 🎯 **Method**: Daily crawling + AI-powered filtering  
-> 🔄 **Update Frequency**: Topics updated weekly, papers updated daily
+> 🔄 **Update Frequency**: Papers daily, topics & awesome lists weekly
 
 ## 📋 Table of Contents
 
-- [🤖 AI Agents](#🤖-ai-agents)
-- [🧠 Large Language Models](#🧠-large-language-models)
-- [🎯 Reasoning & Planning](#🎯-reasoning--planning)
-- [🎨 Diffusion Models](#🎨-diffusion-models)
-- [👁️ Multimodal AI](#👁️-multimodal-ai)
-- [🎮 Reinforcement Learning](#🎮-reinforcement-learning)
-- [🤖 Robotics](#🤖-robotics)
-- [⚡ Model Efficiency](#⚡-model-efficiency)
-- [🔍 Natural Language Processing](#🔍-natural-language-processing)
-- [🎯 AI Alignment](#🎯-ai-alignment)
+- [🔥 Trending Topics](#trending-topics)
+- [⭐ Trending GitHub Awesome Lists](#trending-github-awesome-lists)
+- [🤖 AI Agents](#ai-agents)
+- [🧠 Large Language Models](#large-language-models)
+- [🎯 Reasoning & Planning](#reasoning-planning)
+- [🎨 Diffusion Models](#diffusion-models)
+- [👁️ Multimodal AI](#multimodal-ai)
+- [🎮 Reinforcement Learning](#reinforcement-learning)
+- [🤖 Robotics](#robotics)
+- [⚡ Model Efficiency](#model-efficiency)
+- [🔍 Natural Language Processing](#natural-language-processing)
+- [🎯 AI Alignment](#ai-alignment)
 
 ## 🔥 Trending Topics
 
@@ -40,6 +42,23 @@ Based on real arXiv data analysis and GitHub activity:
 | 8 | **Model Efficiency** | 20 | 115.0 | 2025-07-17 |
 | 9 | **Natural Language Processing** | 20 | 110.0 | 2025-07-17 |
 | 10 | **AI Alignment** | 20 | 105.0 | 2025-07-17 |
+
+## ⭐ Trending GitHub Awesome Lists
+
+Curated collection of trending awesome lists in AI/ML space (updated weekly):
+
+| Rank | Repository | Stars | Trend Score | Last Updated |
+|------|------------|-------|-------------|--------------|
+| 1 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 250,984 | 33930.0 | 2025-07-20 |
+| 2 | [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) | 21,588 | 15872.8 | 2025-07-19 |
+| 3 | [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) | 2,954 | 3752.4 | 2025-07-20 |
+| 4 | [lukasmasuch/best-of-python](https://github.com/lukasmasuch/best-of-python) | 4,048 | 2978.3 | 2025-07-20 |
+| 5 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | 2,604 | 2797.3 | 2025-07-19 |
+| 6 | [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) | 2,552 | 1880.4 | 2025-07-19 |
+| 7 | [guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | 1,737 | 1239.0 | 2025-07-19 |
+| 8 | [best-of-lists/best-of](https://github.com/best-of-lists/best-of) | 1,329 | 1010.3 | 2025-07-18 |
+| 9 | [wangyongjie-ntu/Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) | 1,523 | 999.7 | 2025-07-18 |
+| 10 | [zubair-irshad/Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) | 723 | 887.5 | 2025-07-19 |
 
 ## 🤖 AI Agents
 
@@ -919,41 +938,42 @@ Based on real arXiv data analysis and GitHub activity:
 
 - **Total Papers**: 200
 - **Topics Covered**: 10
-- **Data Source**: Real arXiv papers
-- **Update Method**: Daily crawling + Weekly topic refresh
-- **Quality Control**: Automated filtering and deduplication
+- **Awesome Lists Tracked**: 15
+- **Data Sources**: arXiv + GitHub
+- **Update Method**: Automated crawling + AI filtering
 - **Coverage**: Last 7 days of submissions
 
 ## 🤖 About This List
 
-This awesome list is **automatically generated** using real arXiv data:
+This awesome list is **automatically generated** using real data:
 
 - 🕷️ **Daily Crawling**: Automatically crawls arXiv for latest papers
-- 📊 **Real Data**: All papers and authors are from actual arXiv submissions
+- 📊 **Real Data**: All papers and awesome lists are from actual sources
 - 🎯 **Smart Filtering**: AI-powered relevance and quality filtering
 - 🔄 **Fresh Content**: Updated daily with newest research
-- 📈 **Trend Analysis**: Weekly topic ranking updates
+- 📈 **Trend Analysis**: Weekly topic ranking and awesome list updates
 
 ## 🔄 Update Schedule
 
 - **Paper Updates**: Daily (new papers added automatically)
 - **Topic Rankings**: Weekly (heat scores and rankings refreshed)
-- **Data Retention**: Rolling 7-day window
-- **Next Topic Update**: July 27, 2025
+- **Awesome Lists**: Weekly (trending repositories updated)
+- **Next Update**: July 21, 2025
 
 ## 🛠️ Technical Details
 
-- **Crawler**: Custom arXiv API client with rate limiting
+- **Paper Crawler**: Custom arXiv API client with rate limiting
+- **GitHub Crawler**: GitHub API v3 with trend scoring
 - **Categories**: Targeted search across relevant arXiv categories
-- **Deduplication**: Automatic removal of duplicate papers
+- **Deduplication**: Automatic removal of duplicate papers and repos
 - **Quality Control**: Multi-factor scoring and filtering
 
 ## 🤝 Contributing
 
 This list is automatically maintained, but we welcome:
 
-- 🐛 **Bug reports** for incorrect paper information
-- 💡 **Suggestions** for new research areas to track
+- 🐛 **Bug reports** for incorrect information
+- 💡 **Suggestions** for new research areas or awesome lists to track
 - 🔧 **Improvements** to the crawling and filtering algorithms
 
 ## 📄 License
@@ -962,4 +982,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**🎯 Real arXiv data | 📅 Updated July 20, 2025 | 🔥 200 latest papers**
+**🎯 Real data from arXiv + GitHub | 📅 Updated July 20, 2025 | 🔥 200 papers + 15 awesome lists**
