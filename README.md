@@ -1,58 +1,15 @@
-# 🔥 Meta Awesome List: AI/ML Research & Resources Hub
+# 🔥 Awesome AI/ML Papers - Auto Curated
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Auto-Updated](https://img.shields.io/badge/Auto--Updated-Daily-brightgreen.svg)](https://github.com/GuanchengWan/awesome-ai-ml-papers-auto) [![AI-Powered](https://img.shields.io/badge/AI--Powered-Real--Data-orange.svg)](https://github.com/GuanchengWan/awesome-ai-ml-papers-auto) [![Meta-Collection](https://img.shields.io/badge/Meta--Collection-Papers%20%2B%20Lists-purple.svg)](https://github.com/GuanchengWan/awesome-ai-ml-papers-auto)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Auto-Updated](https://img.shields.io/badge/Auto--Updated-Daily-brightgreen.svg)](https://github.com/GuanchengWan/awesome-ai-ml-papers-auto)
+[![AI-Powered](https://img.shields.io/badge/AI--Powered-Real--Data-orange.svg)](https://github.com/GuanchengWan/awesome-ai-ml-papers-auto)
 
-## 🎯 The Ultimate Meta-Collection for AI/ML Researchers
-
-**Stop chasing hot topics across scattered sources!** This is the **first and only Meta Awesome List** that automatically curates both **trending research papers** AND **trending awesome lists** in one unified, AI-powered platform.
-
-### 🚀 Why This Changes Everything
-
-**The Problem**: Researchers waste hours daily jumping between arXiv, GitHub awesome lists, conference sites, and social media to stay current with AI/ML trends.
-
-**Our Solution**: A single, automatically-updated meta-collection that tracks what's truly trending across both research papers AND community resources.
-
-### 💡 Unique Value Propositions
-
-✅ **Unified Discovery**: Papers + Awesome Lists in one place
-✅ **Trend Tracking**: AI-powered analysis of what's actually hot
-✅ **Time-Saving**: Stop manual hunting across 20+ sources
-✅ **Comprehensive Coverage**: 453+ papers + 30+ awesome lists
-✅ **Real-Time Intelligence**: Daily updates with fresh insights
-✅ **Quality Filtering**: AI-curated, not just popular
-
-> 🤖 **Automatically curated meta-collection of trending AI/ML research papers and awesome lists**
-> 📅 **Last Updated**: July 20, 2025
-> 🔍 **Data Sources**: Real arXiv papers + GitHub trending awesome lists
-> 📊 **Content**: 453 papers + 30 awesome lists
-> 🎯 **Method**: Daily crawling + AI-powered filtering + Trend analysis
+> 🤖 **Automatically curated collection of trending AI/ML research papers and awesome lists**  
+> 📅 **Last Updated**: July 20, 2025  
+> 🔍 **Data Source**: Real arXiv papers + GitHub trending awesome lists  
+> 📊 **Content**: 453 papers + 30 awesome lists  
+> 🎯 **Method**: Daily crawling + AI-powered filtering  
 > 🔄 **Update Frequency**: Papers daily, topics & awesome lists weekly
-
-## 🌟 What Makes This a "Meta" Awesome List?
-
-Unlike traditional awesome lists that focus on a single type of resource, this is a **Meta Awesome List** that intelligently combines:
-
-🔬 **Research Papers** (453+ papers)
-- Latest arXiv submissions with AI-powered relevance scoring
-- Chronological organization with newest papers first
-- Multi-topic coverage across 10 core AI/ML areas
-
-⭐ **Awesome Lists** (30+ repositories)
-- Trending GitHub awesome lists with community engagement metrics
-- Real-time trend scoring based on stars, activity, and maintenance
-- Cross-reference analysis with research topics
-
-🤖 **AI-Powered Intelligence**
-- Built on smolagents framework with DeepSeek R1 LLM
-- Autonomous trend analysis and quality filtering
-- Multi-factor scoring algorithms for both papers and repositories
-
-🔄 **Automated Curation**
-- Daily paper updates from arXiv API
-- Weekly awesome list trend analysis
-- Continuous quality control and deduplication
-
-**Result**: The most comprehensive, up-to-date, and intelligent resource for AI/ML researchers who want both cutting-edge research AND practical implementation resources in one place.
 
 ## 📋 Table of Contents
 
@@ -92,15 +49,15 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 
 | Rank | Repository | Stars | Trend Score | Last Updated |
 |------|------------|-------|-------------|--------------|
-| 1 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 250,990 | 115699.6 | 2025-07-20 |
+| 1 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 250,996 | 115702.0 | 2025-07-20 |
 | 2 | [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) | 21,588 | 64556.5 | 2025-07-19 |
 | 3 | [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) | 8,286 | 27476.8 | 2025-07-20 |
-| 4 | [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | 3,122 | 13180.7 | 2025-07-20 |
+| 4 | [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) | 3,123 | 13184.1 | 2025-07-20 |
 | 5 | [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) | 2,512 | 9931.4 | 2025-07-19 |
 | 6 | [lukasmasuch/best-of-python](https://github.com/lukasmasuch/best-of-python) | 4,048 | 9030.1 | 2025-07-20 |
-| 7 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | 2,604 | 8740.4 | 2025-07-19 |
+| 7 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | 2,605 | 8743.2 | 2025-07-20 |
 | 8 | [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) | 2,955 | 8214.8 | 2025-07-20 |
-| 9 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 1,478 | 6284.9 | 2025-07-20 |
+| 9 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 1,479 | 6288.4 | 2025-07-20 |
 | 10 | [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) | 2,552 | 6249.0 | 2025-07-19 |
 | 11 | [guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | 1,737 | 5208.2 | 2025-07-19 |
 | 12 | [best-of-lists/best-of](https://github.com/best-of-lists/best-of) | 1,329 | 4264.4 | 2025-07-18 |
@@ -112,10 +69,10 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 | 18 | [best-of-ai/ai-directories](https://github.com/best-of-ai/ai-directories) | 472 | 2443.8 | 2025-07-20 |
 | 19 | [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) | 641 | 2335.3 | 2025-07-19 |
 | 20 | [zubair-irshad/Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) | 723 | 2014.3 | 2025-07-19 |
-| 21 | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos) | 288 | 1775.4 | 2025-07-18 |
+| 21 | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos) | 288 | 1800.2 | 2025-07-18 |
 | 22 | [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) | 507 | 1680.4 | 2025-07-20 |
-| 23 | [fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching) | 425 | 1226.8 | 2025-07-18 |
-| 24 | [tokyo-dal/awesome-ai-coding-tools](https://github.com/tokyo-dal/awesome-ai-coding-tools) | 274 | 928.6 | 2025-07-19 |
+| 23 | [tokyo-dal/awesome-ai-coding-tools](https://github.com/tokyo-dal/awesome-ai-coding-tools) | 277 | 1444.4 | 2025-07-20 |
+| 24 | [fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching) | 425 | 1226.8 | 2025-07-18 |
 | 25 | [lwpyh/Awesome-MLLM-Reasoning-Collection](https://github.com/lwpyh/Awesome-MLLM-Reasoning-Collection) | 266 | 861.3 | 2025-07-18 |
 | 26 | [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) | 261 | 827.5 | 2025-07-18 |
 | 27 | [JuDFTteam/best-of-atomistic-machine-learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) | 518 | 696.5 | 2025-07-18 |
