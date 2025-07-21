@@ -8,8 +8,8 @@
 > 🎯 **The Ultimate Meta Awesome List - Solving the "Chasing Hot Topics" Problem for AI Researchers**
 >
 > 🤖 **Agent-Driven Intelligence**: Automatically discovers trending AI topics, curates hottest GitHub awesome lists, and collects latest research papers
-> � **Trend Discovery**: No more FOMO! Our AI agents track what's actually hot in the AI research community
-> � **Dual Power**: 500 cutting-edge papers + 23 trending awesome lists in one place
+> 🚀 **Trend Discovery**: No more FOMO! Our AI agents track what's actually hot in the AI research community
+> 🔌 **Dual Power**: 500 cutting-edge papers + 23 trending awesome lists in one place
 > 📅 **Always Fresh**: Updated daily with real arXiv data and GitHub trending analysis
 > 🧠 **Smart Curation**: AI-powered filtering ensures you only see what matters
 > ⚡ **One-Stop Solution**: From breakthrough papers to community resources - everything AI researchers need
@@ -30,7 +30,7 @@ AI researchers face a daily struggle:
 ⚡ **Zero Effort**: Get personalized, trending AI content without manual searching
 📈 **Stay Ahead**: Be the first to know about breakthrough research and tools
 
-> **Result**: Transform from "chasing trends" to "leading trends" - spend time on research, not discovery!
+> 🎯 *Transform from "chasing trends" to "leading trends" - spend time on research, not discovery!*
 
 ## 📋 Table of Contents
 
@@ -94,7 +94,7 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 | 22 | [colour-science/awesome-colour](https://github.com/colour-science/awesome-colour) | 288 | 209.9 | 2025-07-15 |
 | 23 | [oroszgy/awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp) | 250 | 208.6 | 2025-07-18 |
 
-## 🤖 AI Agents
+## AI Agents
 
 > **Keywords**: agent, multi-agent, autonomous agent, intelligent agent
 
@@ -307,7 +307,7 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 - Agent-environment interaction
 - Emergent behaviors
 
-## 🧠 Large Language Models
+## Large Language Models
 
 > **Keywords**: large language model, LLM, transformer, GPT, language model
 
@@ -520,7 +520,7 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 - Model compression
 - Instruction following
 
-## 🎯 Reasoning & Planning
+## Reasoning & Planning
 
 > **Keywords**: reasoning, planning, chain of thought, logical reasoning
 
@@ -726,7 +726,7 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 *Miriam Meckel et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12957v1.pdf) | `cs.CY`
 
-## 🎨 Diffusion Models
+## Diffusion Models
 
 > **Keywords**: diffusion model, stable diffusion, DDPM, score-based
 
@@ -932,7 +932,7 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 *Shihao Wang et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13353v1.pdf) | `cs.CV, cs.AI`
 
-## 👁️ Multimodal AI
+## Multimodal AI
 
 > **Keywords**: multimodal, vision-language, VLM, cross-modal
 
@@ -1138,7 +1138,7 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 *Shihao Wang et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13353v1.pdf) | `cs.CV, cs.AI`
 
-## 🎮 Reinforcement Learning
+## Reinforcement Learning
 
 > **Keywords**: reinforcement learning, deep RL, policy gradient, RLHF
 
@@ -1344,7 +1344,7 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 *Zacharias Komodromos, Kleanthis Malialis, Panayiotis Kolios*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12966v1.pdf) | `q-bio.PE, cs.LG`
 
-## 🤖 Robotics
+## Robotics
 
 > **Keywords**: robotics, robot learning, manipulation, navigation
 
@@ -1550,7 +1550,7 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 *Xing Tong, Michele D. Simoni*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12067v1.pdf) | `cs.RO`
 
-## ⚡ Model Efficiency
+## Model Efficiency
 
 > **Keywords**: efficient, compression, quantization, pruning, MoE
 
@@ -1756,7 +1756,7 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 *Ahmed Bahloul, Simon Malberg*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13142v1.pdf) | `cs.AI, cs.CL`
 
-## 🔍 Natural Language Processing
+## Natural Language Processing
 
 > **Keywords**: NLP, natural language, text processing, sentiment
 
@@ -1962,7 +1962,7 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 *Michael A. Lepori et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12553v1.pdf) | `cs.CL, cs.AI`
 
-## 🎯 AI Alignment
+## AI Alignment
 
 > **Keywords**: alignment, RLHF, constitutional AI, safety
 
