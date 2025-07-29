@@ -9,7 +9,7 @@
 >
 > 🤖 **Agent-Driven Intelligence**: Automatically discovers trending AI topics, curates hottest GitHub awesome lists, and collects latest research papers
 > 🚀 **Trend Discovery**: No more FOMO! Our AI agents track what's actually hot in the AI research community
-> 🔌 **Dual Power**: 1500 cutting-edge papers + 26 trending awesome lists in one place
+> 🔌 **Dual Power**: 1501 cutting-edge papers + 20 trending awesome lists in one place
 > 📅 **Always Fresh**: Updated daily with real arXiv data and GitHub trending analysis
 > 🧠 **Smart Curation**: AI-powered filtering ensures you only see what matters
 > ⚡ **One-Stop Solution**: From breakthrough papers to community resources - everything AI researchers need
@@ -59,7 +59,7 @@ Based on real arXiv data analysis and GitHub activity:
 | 4 | **Diffusion Models** | 150 | 137.5 | 2025-07-25 |
 | 5 | **Multimodal AI** | 150 | 126.2 | 2025-07-25 |
 | 6 | **Reinforcement Learning** | 150 | 126.1 | 2025-07-25 |
-| 7 | **Robotics** | 150 | 120.0 | 2025-07-25 |
+| 7 | **Robotics** | 151 | 120.0 | 2025-07-25 |
 | 8 | **Model Efficiency** | 150 | 115.0 | 2025-07-25 |
 | 9 | **Natural Language Processing** | 150 | 110.0 | 2025-07-25 |
 | 10 | **AI Alignment** | 150 | 105.0 | 2025-07-25 |
@@ -70,32 +70,26 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 
 | Rank | Repository | Stars | Trend Score | Last Updated |
 |------|------------|-------|-------------|--------------|
-| 1 | [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) | 21,633 | 64665.2 | 2025-07-28 |
-| 2 | [lukasmasuch/best-of-python](https://github.com/lukasmasuch/best-of-python) | 4,058 | 11818.2 | 2025-07-28 |
-| 3 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | 2,614 | 8783.4 | 2025-07-28 |
-| 4 | [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) | 3,069 | 8638.8 | 2025-07-28 |
-| 5 | [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) | 2,555 | 8189.6 | 2025-07-28 |
-| 6 | [guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) | 1,919 | 5673.5 | 2025-07-28 |
-| 7 | [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) | 2,974 | 5628.4 | 2025-07-28 |
-| 8 | [best-of-lists/best-of](https://github.com/best-of-lists/best-of) | 1,334 | 4274.4 | 2025-07-28 |
-| 9 | [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) | 4,521 | 4028.6 | 2025-07-28 |
-| 10 | [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) | 1,112 | 3642.0 | 2025-07-27 |
-| 11 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 3,798 | 2782.7 | 2025-07-26 |
-| 12 | [Limmen/awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) | 903 | 2417.4 | 2025-07-28 |
-| 13 | [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) | 643 | 2344.7 | 2025-07-27 |
-| 14 | [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) | 511 | 1694.0 | 2025-07-28 |
-| 15 | [fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching) | 431 | 1678.5 | 2025-07-25 |
-| 16 | [RiccardoBiosas/awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) | 339 | 976.4 | 2025-07-28 |
-| 17 | [uhub/awesome-python](https://github.com/uhub/awesome-python) | 1,160 | 826.6 | 2025-07-26 |
-| 18 | [Alison-brie/Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration) | 206 | 805.9 | 2025-07-24 |
-| 19 | [JuDFTteam/best-of-atomistic-machine-learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) | 522 | 740.3 | 2025-07-27 |
-| 20 | [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD) | 222 | 717.8 | 2025-07-26 |
-| 21 | [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) | 574 | 686.0 | 2025-07-28 |
-| 22 | [MinghuiChen43/awesome-trustworthy-deep-learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) | 371 | 555.9 | 2025-07-23 |
-| 23 | [mc-lan/Awesome-MLLM-Segmentation](https://github.com/mc-lan/Awesome-MLLM-Segmentation) | 109 | 428.7 | 2025-07-24 |
-| 24 | [hades217/awesome-ai](https://github.com/hades217/awesome-ai) | 526 | 428.3 | 2025-07-26 |
-| 25 | [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) | 147 | 255.1 | 2025-07-27 |
-| 26 | [ybayle/awesome-music-listening](https://github.com/ybayle/awesome-music-listening) | 138 | 124.2 | 2025-07-27 |
+| 1 | [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) | 21,635 | 49590.8 | 2025-07-28 |
+| 2 | [lukasmasuch/best-of-python](https://github.com/lukasmasuch/best-of-python) | 4,059 | 10989.8 | 2025-07-29 |
+| 3 | [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) | 3,069 | 9855.5 | 2025-07-28 |
+| 4 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | 2,614 | 8783.4 | 2025-07-28 |
+| 5 | [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) | 2,555 | 6189.4 | 2025-07-28 |
+| 6 | [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) | 2,975 | 5629.9 | 2025-07-28 |
+| 7 | [best-of-lists/best-of](https://github.com/best-of-lists/best-of) | 1,334 | 3691.1 | 2025-07-28 |
+| 8 | [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) | 1,112 | 3642.0 | 2025-07-27 |
+| 9 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 3,799 | 2783.3 | 2025-07-29 |
+| 10 | [Limmen/awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) | 904 | 2419.6 | 2025-07-28 |
+| 11 | [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) | 643 | 1819.1 | 2025-07-27 |
+| 12 | [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) | 511 | 1694.0 | 2025-07-28 |
+| 13 | [JuDFTteam/best-of-atomistic-machine-learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) | 522 | 1433.8 | 2025-07-27 |
+| 14 | [RiccardoBiosas/awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) | 339 | 976.4 | 2025-07-28 |
+| 15 | [Alison-brie/Awesome-Medical-Image-Registration](https://github.com/Alison-brie/Awesome-Medical-Image-Registration) | 206 | 687.1 | 2025-07-24 |
+| 16 | [MinghuiChen43/awesome-trustworthy-deep-learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) | 371 | 555.9 | 2025-07-23 |
+| 17 | [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) | 574 | 462.2 | 2025-07-28 |
+| 18 | [hades217/awesome-ai](https://github.com/hades217/awesome-ai) | 526 | 409.9 | 2025-07-26 |
+| 19 | [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) | 147 | 206.4 | 2025-07-27 |
+| 20 | [ybayle/awesome-music-listening](https://github.com/ybayle/awesome-music-listening) | 138 | 124.2 | 2025-07-27 |
 
 ## AI Agents
 
@@ -3751,605 +3745,609 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 
 > **Keywords**: robotics, robot learning, manipulation, navigation
 
-### 🌟 Featured Papers (150 papers)
+### 🌟 Featured Papers (151 papers)
 
-**1.** [Efficient Lines Detection for Robot Soccer](https://arxiv.org/abs/2507.19469v1) 💻  
+**1.** [Moving Out: Physically-grounded Human-AI Collaboration](https://arxiv.org/abs/2507.18623v2) 💻  
+*Xuhui Kang et al.*  
+📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18623v2.pdf) | `cs.LG, cs.AI, cs.MA`
+
+**2.** [Efficient Lines Detection for Robot Soccer](https://arxiv.org/abs/2507.19469v1) 💻  
 *João G. Melo, João P. Mafaldo, Edna Barros*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19469v1.pdf) | `cs.CV, cs.RO`
 
-**2.** [Fast Learning of Non-Cooperative Spacecraft 3D Models through Primitive  Initialization](https://arxiv.org/abs/2507.19459v1) 💻  
+**3.** [Fast Learning of Non-Cooperative Spacecraft 3D Models through Primitive  Initialization](https://arxiv.org/abs/2507.19459v1) 💻  
 *Pol Francesch Huc, Emily Bates, Simone D'Amico*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19459v1.pdf) | `cs.CV, cs.LG, cs.RO`
 
-**3.** [EffiComm: Bandwidth Efficient Multi Agent Communication](https://arxiv.org/abs/2507.19354v1) 💻  
+**4.** [EffiComm: Bandwidth Efficient Multi Agent Communication](https://arxiv.org/abs/2507.19354v1) 💻  
 *Melih Yazgan, Allen Xavier Arasan, J. Marius Zöllner*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19354v1.pdf) | `cs.CV, cs.LG, cs.RO`
 
-**4.** [How Age Influences the Interpretation of Emotional Body Language in  Humanoid Robots -- long pape...](https://arxiv.org/abs/2507.19335v1) 💻  
+**5.** [How Age Influences the Interpretation of Emotional Body Language in  Humanoid Robots -- long pape...](https://arxiv.org/abs/2507.19335v1) 💻  
 *Ilaria Consoli et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19335v1.pdf) | `cs.RO`
 
-**5.** [PINO: Person-Interaction Noise Optimization for Long-Duration and  Customizable Motion Generation...](https://arxiv.org/abs/2507.19292v1) 💻  
+**6.** [PINO: Person-Interaction Noise Optimization for Long-Duration and  Customizable Motion Generation...](https://arxiv.org/abs/2507.19292v1) 💻  
 *Sakuya Ota et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19292v1.pdf) | `cs.CV`
 
-**6.** [Foundation Model-Driven Grasping of Unknown Objects via Center of  Gravity Estimation](https://arxiv.org/abs/2507.19242v1) 💻  
+**7.** [Foundation Model-Driven Grasping of Unknown Objects via Center of  Gravity Estimation](https://arxiv.org/abs/2507.19242v1) 💻  
 *Kang Xiangli et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19242v1.pdf) | `cs.RO`
 
-**7.** [Towards Multimodal Social Conversations with Robots: Using  Vision-Language Models](https://arxiv.org/abs/2507.19196v1) 💻  
+**8.** [Towards Multimodal Social Conversations with Robots: Using  Vision-Language Models](https://arxiv.org/abs/2507.19196v1) 💻  
 *Ruben Janssens, Tony Belpaeme*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19196v1.pdf) | `cs.RO, cs.CL, cs.HC`
 
-**8.** [ReCoDe: Reinforcement Learning-based Dynamic Constraint Design for  Multi-Agent Coordination](https://arxiv.org/abs/2507.19151v1) 💻  
+**9.** [ReCoDe: Reinforcement Learning-based Dynamic Constraint Design for  Multi-Agent Coordination](https://arxiv.org/abs/2507.19151v1) 💻  
 *Michael Amir et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19151v1.pdf) | `cs.RO, cs.AI, cs.LG`
 
-**9.** [Diverse and Adaptive Behavior Curriculum for Autonomous Driving: A  Student-Teacher Framework wit...](https://arxiv.org/abs/2507.19146v1) 💻  
+**10.** [Diverse and Adaptive Behavior Curriculum for Autonomous Driving: A  Student-Teacher Framework wit...](https://arxiv.org/abs/2507.19146v1) 💻  
 *Ahmed Abouelazm et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19146v1.pdf) | `cs.RO, cs.LG`
 
-**10.** [PatchTraj: Dynamic Patch Representation Learning for Time-Frequency  Trajectory Prediction](https://arxiv.org/abs/2507.19119v1) 💻  
+**11.** [PatchTraj: Dynamic Patch Representation Learning for Time-Frequency  Trajectory Prediction](https://arxiv.org/abs/2507.19119v1) 💻  
 *Yanghong Liu et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19119v1.pdf) | `cs.CV, cs.AI`
 
-**11.** [Monocular Vision-Based Swarm Robot Localization Using Equilateral  Triangular Formations](https://arxiv.org/abs/2507.19100v1) 💻  
+**12.** [Monocular Vision-Based Swarm Robot Localization Using Equilateral  Triangular Formations](https://arxiv.org/abs/2507.19100v1) 💻  
 *Taewon Kang et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19100v1.pdf) | `cs.RO, cs.SY, eess.SY`
 
-**12.** [Bot Appétit! Exploring how Robot Morphology Shapes Perceived  Affordances via a Mise en Place Sce...](https://arxiv.org/abs/2507.19082v1) 💻  
+**13.** [Bot Appétit! Exploring how Robot Morphology Shapes Perceived  Affordances via a Mise en Place Sce...](https://arxiv.org/abs/2507.19082v1) 💻  
 *Rachel Ringe et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19082v1.pdf) | `cs.RO`
 
-**13.** [SmartPNT-MSF: A Multi-Sensor Fusion Dataset for Positioning and  Navigation Research](https://arxiv.org/abs/2507.19079v1) 💻  
+**14.** [SmartPNT-MSF: A Multi-Sensor Fusion Dataset for Positioning and  Navigation Research](https://arxiv.org/abs/2507.19079v1) 💻  
 *Feng Zhu et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19079v1.pdf) | `cs.RO, cs.LG`
 
-**14.** [Heterogeneous Risk Management Using a Multi-Agent Framework for Supply  Chain Disruption Response](https://arxiv.org/abs/2507.19049v1) 💻  
+**15.** [Heterogeneous Risk Management Using a Multi-Agent Framework for Supply  Chain Disruption Response](https://arxiv.org/abs/2507.19049v1) 💻  
 *Mingjie Bi et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.19049v1.pdf) | `cs.MA, cs.SY, eess.SY`
 
-**15.** [Frequency Response Data-Driven Disturbance Observer Design for Flexible  Joint Robots](https://arxiv.org/abs/2507.18979v1) 💻  
+**16.** [Frequency Response Data-Driven Disturbance Observer Design for Flexible  Joint Robots](https://arxiv.org/abs/2507.18979v1) 💻  
 *Deokjin Lee et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.18979v1.pdf) | `cs.RO`
 
-**16.** [GEAR: Gaze-Enabled Human-Robot Collaborative Assembly](https://arxiv.org/abs/2507.18947v1) 💻  
+**17.** [GEAR: Gaze-Enabled Human-Robot Collaborative Assembly](https://arxiv.org/abs/2507.18947v1) 💻  
 *Asad Ali Shahid et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.18947v1.pdf) | `cs.RO, cs.HC`
 
-**17.** [Assessing the Reliability and Validity of a Balance Mat for Measuring  Postural Stability: A Comb...](https://arxiv.org/abs/2507.18943v1) 💻  
+**18.** [Assessing the Reliability and Validity of a Balance Mat for Measuring  Postural Stability: A Comb...](https://arxiv.org/abs/2507.18943v1) 💻  
 *Abishek Shrestha et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.18943v1.pdf) | `eess.SP, cs.RO`
 
-**18.** [GMM-Based Time-Varying Coverage Control](https://arxiv.org/abs/2507.18938v1) 💻  
+**19.** [GMM-Based Time-Varying Coverage Control](https://arxiv.org/abs/2507.18938v1) 💻  
 *Behzad Zamani et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.18938v1.pdf) | `eess.SY, cs.RO, cs.SY`
 
-**19.** [HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object  Embedding With Selective ...](https://arxiv.org/abs/2507.18921v1) 💻  
+**20.** [HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object  Embedding With Selective ...](https://arxiv.org/abs/2507.18921v1) 💻  
 *Elham Soltani Kazemi et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.18921v1.pdf) | `cs.CV`
 
-**20.** [Dealing with Segmentation Errors in Needle Reconstruction for MRI-Guided  Brachytherapy](https://arxiv.org/abs/2507.18895v1) 💻  
+**21.** [Dealing with Segmentation Errors in Needle Reconstruction for MRI-Guided  Brachytherapy](https://arxiv.org/abs/2507.18895v1) 💻  
 *Vangelis Kostoulas et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.18895v1.pdf) | `eess.IV, cs.CV`
 
-**21.** [A Fast and Light-weight Non-Iterative Visual Odometry with RGB-D Cameras](https://arxiv.org/abs/2507.18886v1) 💻  
+**22.** [A Fast and Light-weight Non-Iterative Visual Odometry with RGB-D Cameras](https://arxiv.org/abs/2507.18886v1) 💻  
 *Zheng Yang et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.18886v1.pdf) | `cs.RO`
 
-**22.** [Success in Humanoid Reinforcement Learning under Partial Observation](https://arxiv.org/abs/2507.18883v1) 💻  
+**23.** [Success in Humanoid Reinforcement Learning under Partial Observation](https://arxiv.org/abs/2507.18883v1) 💻  
 *Wuhao Wang, Zhiyong Chen*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.18883v1.pdf) | `cs.AI, cs.RO`
 
-**23.** [Perspective from a Higher Dimension: Can 3D Geometric Priors Help Visual  Floorplan Localization?](https://arxiv.org/abs/2507.18881v1) 💻  
+**24.** [Perspective from a Higher Dimension: Can 3D Geometric Priors Help Visual  Floorplan Localization?](https://arxiv.org/abs/2507.18881v1) 💻  
 *Bolei Chen et al.*  
 📅 2025-07-25 | [PDF](https://arxiv.org/pdf/2507.18881v1.pdf) | `cs.CV, cs.RO`
 
-**24.** [Equivariant Volumetric Grasping](https://arxiv.org/abs/2507.18847v1) 💻  
+**25.** [Equivariant Volumetric Grasping](https://arxiv.org/abs/2507.18847v1) 💻  
 *Pinhao Song et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18847v1.pdf) | `cs.RO, cs.AI`
 
-**25.** [MetaMorph -- A Metamodelling Approach For Robot Morphology](https://arxiv.org/abs/2507.18820v1) 💻  
+**26.** [MetaMorph -- A Metamodelling Approach For Robot Morphology](https://arxiv.org/abs/2507.18820v1) 💻  
 *Rachel Ringe et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18820v1.pdf) | `cs.RO, cs.HC`
 
-**26.** [Probabilistic Collision Risk Estimation through Gauss-Legendre Cubature  and Non-Homogeneous Pois...](https://arxiv.org/abs/2507.18819v1) 💻  
+**27.** [Probabilistic Collision Risk Estimation through Gauss-Legendre Cubature  and Non-Homogeneous Pois...](https://arxiv.org/abs/2507.18819v1) 💻  
 *Trent Weiss, Madhur Behl*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18819v1.pdf) | `cs.RO`
 
-**27.** [Perpetua: Multi-Hypothesis Persistence Modeling for Semi-Static  Environments](https://arxiv.org/abs/2507.18808v1) 💻  
+**28.** [Perpetua: Multi-Hypothesis Persistence Modeling for Semi-Static  Environments](https://arxiv.org/abs/2507.18808v1) 💻  
 *Miguel Saavedra-Ruiz et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18808v1.pdf) | `cs.RO, cs.CV`
 
-**28.** [Diffusion-FS: Multimodal Free-Space Prediction via Diffusion for  Autonomous Driving](https://arxiv.org/abs/2507.18763v1) 💻  
+**29.** [Diffusion-FS: Multimodal Free-Space Prediction via Diffusion for  Autonomous Driving](https://arxiv.org/abs/2507.18763v1) 💻  
 *Keshav Gupta et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18763v1.pdf) | `cs.CV, cs.RO`
 
-**29.** [SaLF: Sparse Local Fields for Multi-Sensor Rendering in Real-Time](https://arxiv.org/abs/2507.18713v1) 💻  
+**30.** [SaLF: Sparse Local Fields for Multi-Sensor Rendering in Real-Time](https://arxiv.org/abs/2507.18713v1) 💻  
 *Yun Chen et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18713v1.pdf) | `cs.CV, cs.RO`
 
-**30.** [Moving Out: Physically-grounded Human-AI Collaboration](https://arxiv.org/abs/2507.18623v1) 💻  
+**31.** [Moving Out: Physically-grounded Human-AI Collaboration](https://arxiv.org/abs/2507.18623v1) 💻  
 *Xuhui Kang et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18623v1.pdf) | `cs.LG, cs.AI, cs.MA`
 
-**31.** [Human Scanpath Prediction in Target-Present Visual Search with  Semantic-Foveal Bayesian Attention](https://arxiv.org/abs/2507.18503v1) 💻  
+**32.** [Human Scanpath Prediction in Target-Present Visual Search with  Semantic-Foveal Bayesian Attention](https://arxiv.org/abs/2507.18503v1) 💻  
 *João Luzio, Alexandre Bernardino, Plinio Moreno*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18503v1.pdf) | `cs.CV`
 
-**32.** [Experimental Comparison of Whole-Body Control Formulations for Humanoid  Robots in Task Accelerat...](https://arxiv.org/abs/2507.18502v1) 💻  
+**33.** [Experimental Comparison of Whole-Body Control Formulations for Humanoid  Robots in Task Accelerat...](https://arxiv.org/abs/2507.18502v1) 💻  
 *Sait Sovukluk et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18502v1.pdf) | `cs.RO`
 
-**33.** [A Novel Monte-Carlo Compressed Sensing and Dictionary Learning Method  for the Efficient Path Pla...](https://arxiv.org/abs/2507.18462v1) 💻  
+**34.** [A Novel Monte-Carlo Compressed Sensing and Dictionary Learning Method  for the Efficient Path Pla...](https://arxiv.org/abs/2507.18462v1) 💻  
 *Alghalya Al-Hajri et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18462v1.pdf) | `cs.RO`
 
-**34.** [DSFormer: A Dual-Scale Cross-Learning Transformer for Visual Place  Recognition](https://arxiv.org/abs/2507.18444v1) 💻  
+**35.** [DSFormer: A Dual-Scale Cross-Learning Transformer for Visual Place  Recognition](https://arxiv.org/abs/2507.18444v1) 💻  
 *Haiyang Jiang et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18444v1.pdf) | `cs.CV, cs.RO`
 
-**35.** [Evaluating the Pre-Dressing Step: Unfolding Medical Garments Via  Imitation Learning](https://arxiv.org/abs/2507.18436v1) 💻  
+**36.** [Evaluating the Pre-Dressing Step: Unfolding Medical Garments Via  Imitation Learning](https://arxiv.org/abs/2507.18436v1) 💻  
 *David Blanco-Mulero, Júlia Borràs, Carme Torras*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18436v1.pdf) | `cs.RO`
 
-**36.** [Residual Koopman Model Predictive Control for Enhanced Vehicle Dynamics  with Small On-Track Data...](https://arxiv.org/abs/2507.18396v1) 💻  
+**37.** [Residual Koopman Model Predictive Control for Enhanced Vehicle Dynamics  with Small On-Track Data...](https://arxiv.org/abs/2507.18396v1) 💻  
 *Yonghao Fu et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18396v1.pdf) | `cs.RO, cs.SY, eess.SY`
 
-**37.** [Advancing Vision-based Human Action Recognition: Exploring  Vision-Language CLIP Model for Genera...](https://arxiv.org/abs/2507.18675v1) 💻  
+**38.** [Advancing Vision-based Human Action Recognition: Exploring  Vision-Language CLIP Model for Genera...](https://arxiv.org/abs/2507.18675v1) 💻  
 *Sanyam Jain, Marsha Mariya Kappan, Vijeta Sharma*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18675v1.pdf) | `cs.CV, cs.LG`
 
-**38.** [G2S-ICP SLAM: Geometry-aware Gaussian Splatting ICP SLAM](https://arxiv.org/abs/2507.18344v1) 💻  
+**39.** [G2S-ICP SLAM: Geometry-aware Gaussian Splatting ICP SLAM](https://arxiv.org/abs/2507.18344v1) 💻  
 *Gyuhyeon Pak, Hae Min Cho, Euntai Kim*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18344v1.pdf) | `cs.RO`
 
-**39.** [AF-RLIO: Adaptive Fusion of Radar-LiDAR-Inertial Information for Robust  Odometry in Challenging ...](https://arxiv.org/abs/2507.18317v1) 💻  
+**40.** [AF-RLIO: Adaptive Fusion of Radar-LiDAR-Inertial Information for Robust  Odometry in Challenging ...](https://arxiv.org/abs/2507.18317v1) 💻  
 *Chenglong Qian et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18317v1.pdf) | `cs.RO`
 
-**40.** [Adaptive Articulated Object Manipulation On The Fly with Foundation  Model Reasoning and Part Gro...](https://arxiv.org/abs/2507.18276v1) 💻  
+**41.** [Adaptive Articulated Object Manipulation On The Fly with Foundation  Model Reasoning and Part Gro...](https://arxiv.org/abs/2507.18276v1) 💻  
 *Xiaojie Zhang et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18276v1.pdf) | `cs.RO, cs.CV`
 
-**41.** [An Empirical Study on Embodied Artificial Intelligence Robot (EAIR)  Software Bugs](https://arxiv.org/abs/2507.18267v1) 💻  
+**42.** [An Empirical Study on Embodied Artificial Intelligence Robot (EAIR)  Software Bugs](https://arxiv.org/abs/2507.18267v1) 💻  
 *Zeqin Liao et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18267v1.pdf) | `cs.SE`
 
-**42.** [ReSem3D: Refinable 3D Spatial Constraints via Fine-Grained Semantic  Grounding for Generalizable ...](https://arxiv.org/abs/2507.18262v2) 💻  
+**43.** [ReSem3D: Refinable 3D Spatial Constraints via Fine-Grained Semantic  Grounding for Generalizable ...](https://arxiv.org/abs/2507.18262v2) 💻  
 *Chenyu Su et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18262v2.pdf) | `cs.RO, cs.AI, cs.CV`
 
-**43.** [Evaluation of facial landmark localization performance in a surgical  setting](https://arxiv.org/abs/2507.18248v1) 💻  
+**44.** [Evaluation of facial landmark localization performance in a surgical  setting](https://arxiv.org/abs/2507.18248v1) 💻  
 *Ines Frajtag, Marko Švaco, Filip Šuligoj*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18248v1.pdf) | `cs.RO, cs.CV`
 
-**44.** [MoRPI-PINN: A Physics-Informed Framework for Mobile Robot Pure Inertial  Navigation](https://arxiv.org/abs/2507.18206v1) 💻  
+**45.** [MoRPI-PINN: A Physics-Informed Framework for Mobile Robot Pure Inertial  Navigation](https://arxiv.org/abs/2507.18206v1) 💻  
 *Arup Kumar Sahoo, Itzik Klein*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18206v1.pdf) | `cs.RO, cs.AI`
 
-**45.** [Autonomous UAV Navigation for Search and Rescue Missions Using Computer  Vision and Convolutional...](https://arxiv.org/abs/2507.18160v1) 💻  
+**46.** [Autonomous UAV Navigation for Search and Rescue Missions Using Computer  Vision and Convolutional...](https://arxiv.org/abs/2507.18160v1) 💻  
 *Luka Šiktar et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18160v1.pdf) | `cs.RO`
 
-**46.** [Neuromorphic Computing for Embodied Intelligence in Autonomous Systems:  Current Trends, Challeng...](https://arxiv.org/abs/2507.18139v1) 💻  
+**47.** [Neuromorphic Computing for Embodied Intelligence in Autonomous Systems:  Current Trends, Challeng...](https://arxiv.org/abs/2507.18139v1) 💻  
 *Alberto Marchisio, Muhammad Shafique*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18139v1.pdf) | `cs.LG`
 
-**47.** [A Modular Residual Learning Framework to Enhance Model-Based Approach  for Robust Locomotion](https://arxiv.org/abs/2507.18138v1) 💻  
+**48.** [A Modular Residual Learning Framework to Enhance Model-Based Approach  for Robust Locomotion](https://arxiv.org/abs/2507.18138v1) 💻  
 *Min-Gyu Kim et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18138v1.pdf) | `cs.RO`
 
-**48.** [Policy Disruption in Reinforcement Learning:Adversarial Attack with  Large Language Models and Cr...](https://arxiv.org/abs/2507.18113v1) 💻  
+**49.** [Policy Disruption in Reinforcement Learning:Adversarial Attack with  Large Language Models and Cr...](https://arxiv.org/abs/2507.18113v1) 💻  
 *Junyong Jiang et al.*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18113v1.pdf) | `cs.LG`
 
-**49.** [Modular Robot and Landmark Localisation Using Relative Bearing  Measurements](https://arxiv.org/abs/2507.18070v1) 💻  
+**50.** [Modular Robot and Landmark Localisation Using Relative Bearing  Measurements](https://arxiv.org/abs/2507.18070v1) 💻  
 *Behzad Zamani, Jochen Trumpf, Chris Manzie*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18070v1.pdf) | `cs.RO, cs.SY, eess.SP`
 
-**50.** [OpenNav: Open-World Navigation with Multimodal Large Language Models](https://arxiv.org/abs/2507.18033v1) 💻  
+**51.** [OpenNav: Open-World Navigation with Multimodal Large Language Models](https://arxiv.org/abs/2507.18033v1) 💻  
 *Mingfeng Yuan, Letian Wang, Steven L. Waslander*  
 📅 2025-07-24 | [PDF](https://arxiv.org/pdf/2507.18033v1.pdf) | `cs.RO, cs.AI`
 
-**51.** [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent  Planning](https://arxiv.org/abs/2507.16815v1) 💻  
+**52.** [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent  Planning](https://arxiv.org/abs/2507.16815v1) 💻  
 *Chi-Pin Huang et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16815v1.pdf) | `cs.CV, cs.AI, cs.LG`
 
-**52.** [Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](https://arxiv.org/abs/2507.16746v1) 💻  
+**53.** [Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](https://arxiv.org/abs/2507.16746v1) 💻  
 *Ang Li et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16746v1.pdf) | `cs.CV, cs.CL, cs.LG`
 
-**53.** [Denoising-While-Completing Network (DWCNet): Robust Point Cloud  Completion Under Corruption](https://arxiv.org/abs/2507.16743v1) 💻  
+**54.** [Denoising-While-Completing Network (DWCNet): Robust Point Cloud  Completion Under Corruption](https://arxiv.org/abs/2507.16743v1) 💻  
 *Keneni W. Tesema et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16743v1.pdf) | `cs.CV`
 
-**54.** [Experience is the Best Teacher: Grounding VLMs for Robotics through  Self-Generated Memory](https://arxiv.org/abs/2507.16713v1) 💻  
+**55.** [Experience is the Best Teacher: Grounding VLMs for Robotics through  Self-Generated Memory](https://arxiv.org/abs/2507.16713v1) 💻  
 *Guowei Lan et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16713v1.pdf) | `cs.RO, cs.AI, cs.CL`
 
-**55.** [Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and  Diverse Emotion Control](https://arxiv.org/abs/2507.16645v1) 💻  
+**56.** [Morpheus: A Neural-driven Animatronic Face with Hybrid Actuation and  Diverse Emotion Control](https://arxiv.org/abs/2507.16645v1) 💻  
 *Zongzheng Zhang et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16645v1.pdf) | `cs.RO`
 
-**56.** [Solution to some conjectures on mobile position problems](https://arxiv.org/abs/2507.16622v1) 💻  
+**57.** [Solution to some conjectures on mobile position problems](https://arxiv.org/abs/2507.16622v1) 💻  
 *Ethan Shallcross et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16622v1.pdf) | `math.CO`
 
-**57.** [A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System](https://arxiv.org/abs/2507.16621v1) 💻  
+**58.** [A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System](https://arxiv.org/abs/2507.16621v1) 💻  
 *Lorenzo Gentilini et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16621v1.pdf) | `cs.RO, cs.CV`
 
-**58.** [Comparative validation of surgical phase recognition, instrument  keypoint estimation, and instru...](https://arxiv.org/abs/2507.16559v1) 💻  
+**59.** [Comparative validation of surgical phase recognition, instrument  keypoint estimation, and instru...](https://arxiv.org/abs/2507.16559v1) 💻  
 *Tobias Rueckert et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16559v1.pdf) | `cs.CV`
 
-**59.** [Guided Reinforcement Learning for Omnidirectional 3D Jumping in  Quadruped Robots](https://arxiv.org/abs/2507.16481v1) 💻  
+**60.** [Guided Reinforcement Learning for Omnidirectional 3D Jumping in  Quadruped Robots](https://arxiv.org/abs/2507.16481v1) 💻  
 *Riccardo Bussola et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16481v1.pdf) | `cs.RO, cs.SY, eess.SY`
 
-**60.** [Designing for Difference: How Human Characteristics Shape Perceptions of  Collaborative Robots](https://arxiv.org/abs/2507.16480v1) 💻  
+**61.** [Designing for Difference: How Human Characteristics Shape Perceptions of  Collaborative Robots](https://arxiv.org/abs/2507.16480v1) 💻  
 *Sabrina Livanec et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16480v1.pdf) | `cs.RO, cs.AI, cs.CV`
 
-**61.** [Distributed Oscillatory Guidance for Formation Flight of Fixed-Wing  Drones](https://arxiv.org/abs/2507.16458v1) 💻  
+**62.** [Distributed Oscillatory Guidance for Formation Flight of Fixed-Wing  Drones](https://arxiv.org/abs/2507.16458v1) 💻  
 *Yang Xu et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16458v1.pdf) | `cs.RO, cs.SY, eess.SY`
 
-**62.** [Sparse-View 3D Reconstruction: Recent Advances and Open Challenges](https://arxiv.org/abs/2507.16406v1) 💻  
+**63.** [Sparse-View 3D Reconstruction: Recent Advances and Open Challenges](https://arxiv.org/abs/2507.16406v1) 💻  
 *Tanveer Younis, Zhanglin Cheng*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16406v1.pdf) | `cs.CV`
 
-**63.** [AI or Human? Understanding Perceptions of Embodied Robots with LLMs](https://arxiv.org/abs/2507.16398v1) 💻  
+**64.** [AI or Human? Understanding Perceptions of Embodied Robots with LLMs](https://arxiv.org/abs/2507.16398v1) 💻  
 *Lavinia Hriscu, Alberto Sanfeliu, Anais Garrell*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16398v1.pdf) | `cs.RO, cs.HC`
 
-**64.** [Application of LLM Guided Reinforcement Learning in Formation Control  with Collision Avoidance](https://arxiv.org/abs/2507.16382v1) 💻  
+**65.** [Application of LLM Guided Reinforcement Learning in Formation Control  with Collision Avoidance](https://arxiv.org/abs/2507.16382v1) 💻  
 *Chenhao Yao et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16382v1.pdf) | `cs.RO, cs.AI`
 
-**65.** [Humanoid Robot Whole-body Geometric Calibration with Embedded Sensors  and a Single Plane](https://arxiv.org/abs/2507.16369v1) 💻  
+**66.** [Humanoid Robot Whole-body Geometric Calibration with Embedded Sensors  and a Single Plane](https://arxiv.org/abs/2507.16369v1) 💻  
 *Thanh D V Nguyen et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16369v1.pdf) | `cs.RO`
 
-**66.** [Topology Optimization of Leg Structures for Construction Robots Based on  Variable Density Method](https://arxiv.org/abs/2507.16335v1) 💻  
+**67.** [Topology Optimization of Leg Structures for Construction Robots Based on  Variable Density Method](https://arxiv.org/abs/2507.16335v1) 💻  
 *Xiao Liu et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16335v1.pdf) | `cs.RO`
 
-**67.** [Design and Dimensional Optimization of Legged Structures for  Construction Robots](https://arxiv.org/abs/2507.16328v1) 💻  
+**68.** [Design and Dimensional Optimization of Legged Structures for  Construction Robots](https://arxiv.org/abs/2507.16328v1) 💻  
 *Xiao Liu et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16328v1.pdf) | `cs.RO`
 
-**68.** [COMPASS: Cooperative Multi-Agent Persistent Monitoring using  Spatio-Temporal Attention Network](https://arxiv.org/abs/2507.16306v1) 💻  
+**69.** [COMPASS: Cooperative Multi-Agent Persistent Monitoring using  Spatio-Temporal Attention Network](https://arxiv.org/abs/2507.16306v1) 💻  
 *Xingjian Zhang, Yizhuo Wang, Guillaume Sartoretti*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16306v1.pdf) | `cs.MA, cs.RO`
 
-**69.** [Trajectory Planning of a Curtain Wall Installation Robot Based on  Biomimetic Mechanisms](https://arxiv.org/abs/2507.16305v1) 💻  
+**70.** [Trajectory Planning of a Curtain Wall Installation Robot Based on  Biomimetic Mechanisms](https://arxiv.org/abs/2507.16305v1) 💻  
 *Xiao Liu et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16305v1.pdf) | `cs.RO`
 
-**70.** [Improved Wake-Up Time For Euclidean Freeze-Tag Problem](https://arxiv.org/abs/2507.16269v1) 💻  
+**71.** [Improved Wake-Up Time For Euclidean Freeze-Tag Problem](https://arxiv.org/abs/2507.16269v1) 💻  
 *Sharareh Alipour, Arash Ahadi, Kajal Baghestani*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16269v1.pdf) | `cs.CG, cs.DC, cs.RO`
 
-**71.** [Physics-aware Truck and Drone Delivery Planning Using Optimization &  Machine Learning](https://arxiv.org/abs/2507.16259v1) 💻  
+**72.** [Physics-aware Truck and Drone Delivery Planning Using Optimization &  Machine Learning](https://arxiv.org/abs/2507.16259v1) 💻  
 *Yineng Sun, Armin Fügenschuh, Vikrant Vaze*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16259v1.pdf) | `math.OC, cs.RO`
 
-**72.** [GFM-Planner: Perception-Aware Trajectory Planning with Geometric Feature  Metric](https://arxiv.org/abs/2507.16233v1) 💻  
+**73.** [GFM-Planner: Perception-Aware Trajectory Planning with Geometric Feature  Metric](https://arxiv.org/abs/2507.16233v1) 💻  
 *Yue Lin et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16233v1.pdf) | `cs.RO`
 
-**73.** [Adaptive Relative Pose Estimation Framework with Dual Noise Tuning for  Safe Approaching Maneuvers](https://arxiv.org/abs/2507.16214v1) 💻  
+**74.** [Adaptive Relative Pose Estimation Framework with Dual Noise Tuning for  Safe Approaching Maneuvers](https://arxiv.org/abs/2507.16214v1) 💻  
 *Batu Candan, Simone Servadio*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16214v1.pdf) | `cs.RO, cs.AI`
 
-**74.** [Scanning Bot: Efficient Scan Planning using Panoramic Cameras](https://arxiv.org/abs/2507.16175v1) 💻  
+**75.** [Scanning Bot: Efficient Scan Planning using Panoramic Cameras](https://arxiv.org/abs/2507.16175v1) 💻  
 *Euijeong Lee, Kyung Min Han, Young J. Kim*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16175v1.pdf) | `cs.RO`
 
-**75.** [Equivariant Goal Conditioned Contrastive Reinforcement Learning](https://arxiv.org/abs/2507.16139v1) 💻  
+**76.** [Equivariant Goal Conditioned Contrastive Reinforcement Learning](https://arxiv.org/abs/2507.16139v1) 💻  
 *Arsh Tangri et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16139v1.pdf) | `cs.RO, cs.LG`
 
-**76.** [Benchmarking LLM Privacy Recognition for Social Robot Decision Making](https://arxiv.org/abs/2507.16124v1) 💻  
+**77.** [Benchmarking LLM Privacy Recognition for Social Robot Decision Making](https://arxiv.org/abs/2507.16124v1) 💻  
 *Dakota Sullivan et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16124v1.pdf) | `cs.RO, cs.AI`
 
-**77.** [DWSFormer: A Lightweight Inertial Odometry Network for Complex Motion  Modeling](https://arxiv.org/abs/2507.16121v1) 💻  
+**78.** [DWSFormer: A Lightweight Inertial Odometry Network for Complex Motion  Modeling](https://arxiv.org/abs/2507.16121v1) 💻  
 *Shanshan Zhang et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16121v1.pdf) | `cs.RO`
 
-**78.** [FTIN: Frequency-Time Integration Network for Inertial Odometry](https://arxiv.org/abs/2507.16120v1) 💻  
+**79.** [FTIN: Frequency-Time Integration Network for Inertial Odometry](https://arxiv.org/abs/2507.16120v1) 💻  
 *Shanshan Zhang et al.*  
 📅 2025-07-22 | [PDF](https://arxiv.org/pdf/2507.16120v1.pdf) | `cs.RO`
 
-**79.** [Optically Reconfigurable Electrodes for Dielectric Elastomer Actuators](https://arxiv.org/abs/2507.16091v1) 💻  
+**80.** [Optically Reconfigurable Electrodes for Dielectric Elastomer Actuators](https://arxiv.org/abs/2507.16091v1) 💻  
 *Gino Domel, Ehsan Hajiesmaili, David R. Clarke*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.16091v1.pdf) | `cond-mat.mtrl-sci, physics.app-ph`
 
-**80.** [Compositional Coordination for Multi-Robot Teams with Large Language  Models](https://arxiv.org/abs/2507.16068v1) 💻  
+**81.** [Compositional Coordination for Multi-Robot Teams with Large Language  Models](https://arxiv.org/abs/2507.16068v1) 💻  
 *Zhehui Huang et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.16068v1.pdf) | `cs.RO, cs.AI, cs.LG`
 
-**81.** [Therapist-Exoskeleton-Patient Interaction: An Immersive Gait Therapy](https://arxiv.org/abs/2507.16059v1) 💻  
+**82.** [Therapist-Exoskeleton-Patient Interaction: An Immersive Gait Therapy](https://arxiv.org/abs/2507.16059v1) 💻  
 *Emek Barış Küçüktabak et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.16059v1.pdf) | `cs.RO`
 
-**82.** [Improved Semantic Segmentation from Ultra-Low-Resolution RGB Images  Applied to Privacy-Preservin...](https://arxiv.org/abs/2507.16034v1) 💻  
+**83.** [Improved Semantic Segmentation from Ultra-Low-Resolution RGB Images  Applied to Privacy-Preservin...](https://arxiv.org/abs/2507.16034v1) 💻  
 *Xuying Huang et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.16034v1.pdf) | `cs.RO, cs.CV`
 
-**83.** [A Comprehensive Evaluation of LiDAR Odometry Techniques](https://arxiv.org/abs/2507.16000v1) 💻  
+**84.** [A Comprehensive Evaluation of LiDAR Odometry Techniques](https://arxiv.org/abs/2507.16000v1) 💻  
 *Easton Potokar, Michael Kaess*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.16000v1.pdf) | `cs.RO`
 
-**84.** [Fast Task Planning with Neuro-Symbolic Relaxation](https://arxiv.org/abs/2507.15975v1) 💻  
+**85.** [Fast Task Planning with Neuro-Symbolic Relaxation](https://arxiv.org/abs/2507.15975v1) 💻  
 *Qiwei Du et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15975v1.pdf) | `cs.RO`
 
-**85.** [Diffusion Beats Autoregressive in Data-Constrained Settings](https://arxiv.org/abs/2507.15857v1) 💻  
+**86.** [Diffusion Beats Autoregressive in Data-Constrained Settings](https://arxiv.org/abs/2507.15857v1) 💻  
 *Mihir Prabhudesai et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15857v1.pdf) | `cs.LG, cs.AI, cs.CV`
 
-**86.** [Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and  Foveated Vision Transfo...](https://arxiv.org/abs/2507.15833v1) 💻  
+**87.** [Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and  Foveated Vision Transfo...](https://arxiv.org/abs/2507.15833v1) 💻  
 *Ian Chuang et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15833v1.pdf) | `cs.RO, cs.AI, cs.CV`
 
-**87.** [Interleaved LLM and Motion Planning for Generalized Multi-Object  Collection in Large Scene Graphs](https://arxiv.org/abs/2507.15782v1) 💻  
+**88.** [Interleaved LLM and Motion Planning for Generalized Multi-Object  Collection in Large Scene Graphs](https://arxiv.org/abs/2507.15782v1) 💻  
 *Ruochu Yang et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15782v1.pdf) | `cs.RO`
 
-**88.** [Density control of multi-agent swarms via bio-inspired leader-follower  plasticity](https://arxiv.org/abs/2507.15781v1) 💻  
+**89.** [Density control of multi-agent swarms via bio-inspired leader-follower  plasticity](https://arxiv.org/abs/2507.15781v1) 💻  
 *Gian Carlo Maffettone et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15781v1.pdf) | `eess.SY, cs.SY`
 
-**89.** [TONUS: Neuromorphic human pose estimation for artistic sound co-creation](https://arxiv.org/abs/2507.15734v1) 💻  
+**90.** [TONUS: Neuromorphic human pose estimation for artistic sound co-creation](https://arxiv.org/abs/2507.15734v1) 💻  
 *Jules Lecomte et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15734v1.pdf) | `cs.NE`
 
-**90.** [Gaze-supported Large Language Model Framework for Bi-directional  Human-Robot Interaction](https://arxiv.org/abs/2507.15729v1) 💻  
+**91.** [Gaze-supported Large Language Model Framework for Bi-directional  Human-Robot Interaction](https://arxiv.org/abs/2507.15729v1) 💻  
 *Jens V. Rüppel et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15729v1.pdf) | `cs.RO, cs.HC`
 
-**91.** [DiffPF: Differentiable Particle Filtering with Generative Sampling via  Conditional Diffusion Models](https://arxiv.org/abs/2507.15716v1) 💻  
+**92.** [DiffPF: Differentiable Particle Filtering with Generative Sampling via  Conditional Diffusion Models](https://arxiv.org/abs/2507.15716v1) 💻  
 *Ziyu Wan, Lin Zhao*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15716v1.pdf) | `cs.RO`
 
-**92.** [Selective Densification for Rapid Motion Planning in High Dimensions  with Narrow Passages](https://arxiv.org/abs/2507.15710v1) 💻  
+**93.** [Selective Densification for Rapid Motion Planning in High Dimensions  with Narrow Passages](https://arxiv.org/abs/2507.15710v1) 💻  
 *Lu Huang et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15710v1.pdf) | `cs.RO`
 
-**93.** [Strong, Accurate, and Low-Cost Robot Manipulator](https://arxiv.org/abs/2507.15693v1) 💻  
+**94.** [Strong, Accurate, and Low-Cost Robot Manipulator](https://arxiv.org/abs/2507.15693v1) 💻  
 *Georges Chebly et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15693v1.pdf) | `cs.RO`
 
-**94.** [Data-Driven MPC with Data Selection for Flexible Cable-Driven Robotic  Arms](https://arxiv.org/abs/2507.15677v1) 💻  
+**95.** [Data-Driven MPC with Data Selection for Flexible Cable-Driven Robotic  Arms](https://arxiv.org/abs/2507.15677v1) 💻  
 *Huayue Liang et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15677v1.pdf) | `cs.RO`
 
-**95.** [EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body  Motion Imitation](https://arxiv.org/abs/2507.15649v1) 💻  
+**96.** [EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body  Motion Imitation](https://arxiv.org/abs/2507.15649v1) 💻  
 *Haocheng Xu et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15649v1.pdf) | `cs.RO`
 
-**96.** [Optimizing Force Signals from Human Demonstrations of In-Contact Motions](https://arxiv.org/abs/2507.15608v1) 💻  
+**97.** [Optimizing Force Signals from Human Demonstrations of In-Contact Motions](https://arxiv.org/abs/2507.15608v1) 💻  
 *Johannes Hartwig, Fabian Viessmann, Dominik Henrich*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15608v1.pdf) | `cs.RO`
 
-**97.** [A Universal Vehicle-Trailer Navigation System with Neural Kinematics and  Online Residual Learning](https://arxiv.org/abs/2507.15607v1) 💻  
+**98.** [A Universal Vehicle-Trailer Navigation System with Neural Kinematics and  Online Residual Learning](https://arxiv.org/abs/2507.15607v1) 💻  
 *Yanbo Chen et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15607v1.pdf) | `cs.RO`
 
-**98.** [Estimation of Payload Inertial Parameters from Human Demonstrations by  Hand Guiding](https://arxiv.org/abs/2507.15604v1) 💻  
+**99.** [Estimation of Payload Inertial Parameters from Human Demonstrations by  Hand Guiding](https://arxiv.org/abs/2507.15604v1) 💻  
 *Johannes Hartwig, Philipp Lienhardt, Dominik Henrich*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15604v1.pdf) | `cs.RO`
 
-**99.** [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human  Videos](https://arxiv.org/abs/2507.15597v1) 💻  
+**100.** [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human  Videos](https://arxiv.org/abs/2507.15597v1) 💻  
 *Hao Luo et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15597v1.pdf) | `cs.CV, cs.LG, cs.RO`
 
-**100.** [Improving Functional Reliability of Near-Field Monitoring for Emergency  Braking in Autonomous Ve...](https://arxiv.org/abs/2507.15594v1) 💻  
+**101.** [Improving Functional Reliability of Near-Field Monitoring for Emergency  Braking in Autonomous Ve...](https://arxiv.org/abs/2507.15594v1) 💻  
 *Junnan Pan et al.*  
 📅 2025-07-21 | [PDF](https://arxiv.org/pdf/2507.15594v1.pdf) | `eess.SY, cs.RO, cs.SY`
 
-**101.** [Latent Policy Steering with Embodiment-Agnostic Pretrained World Models](https://arxiv.org/abs/2507.13340v1) 💻  
+**102.** [Latent Policy Steering with Embodiment-Agnostic Pretrained World Models](https://arxiv.org/abs/2507.13340v1) 💻  
 *Yiqi Wang, Mrinal Verghese, Jeff Schneider*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13340v1.pdf) | `cs.RO, cs.AI, cs.LG`
 
-**102.** [Evaluating Reinforcement Learning Algorithms for Navigation in Simulated  Robotic Quadrupeds: A C...](https://arxiv.org/abs/2507.13277v1) 💻  
+**103.** [Evaluating Reinforcement Learning Algorithms for Navigation in Simulated  Robotic Quadrupeds: A C...](https://arxiv.org/abs/2507.13277v1) 💻  
 *Emma M. A. Harrison*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13277v1.pdf) | `cs.RO, cs.AI, cs.LG`
 
-**103.** [VITA: Vision-to-Action Flow Matching Policy](https://arxiv.org/abs/2507.13231v1) 💻  
+**104.** [VITA: Vision-to-Action Flow Matching Policy](https://arxiv.org/abs/2507.13231v1) 💻  
 *Dechen Gao et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13231v1.pdf) | `cs.CV, cs.AI, cs.RO`
 
-**104.** [$S^2M^2$: Scalable Stereo Matching Model for Reliable Depth Estimation](https://arxiv.org/abs/2507.13229v1) 💻  
+**105.** [$S^2M^2$: Scalable Stereo Matching Model for Reliable Depth Estimation](https://arxiv.org/abs/2507.13229v1) 💻  
 *Junhong Min et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13229v1.pdf) | `cs.CV, cs.AI, cs.RO`
 
-**105.** [Signal Temporal Logic Compliant Co-design of Planning and Control](https://arxiv.org/abs/2507.13225v1) 💻  
+**106.** [Signal Temporal Logic Compliant Co-design of Planning and Control](https://arxiv.org/abs/2507.13225v1) 💻  
 *Manas Sashank Juvvi et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13225v1.pdf) | `cs.RO`
 
-**106.** [Few-shot transfer of tool-use skills using human demonstrations with  proximity and tactile sensing](https://arxiv.org/abs/2507.13200v1) 💻  
+**107.** [Few-shot transfer of tool-use skills using human demonstrations with  proximity and tactile sensing](https://arxiv.org/abs/2507.13200v1) 💻  
 *Marina Y. Aoyama, Sethu Vijayakumar, Tetsuya Narita*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13200v1.pdf) | `cs.RO`
 
-**107.** [GradNetOT: Learning Optimal Transport Maps with GradNets](https://arxiv.org/abs/2507.13191v1) 💻  
+**108.** [GradNetOT: Learning Optimal Transport Maps with GradNets](https://arxiv.org/abs/2507.13191v1) 💻  
 *Shreyas Chaudhari, Srinivasa Pranav, José M. F. Moura*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13191v1.pdf) | `cs.LG`
 
-**108.** [Aligning Humans and Robots via Reinforcement Learning from Implicit  Human Feedback](https://arxiv.org/abs/2507.13171v1) 💻  
+**109.** [Aligning Humans and Robots via Reinforcement Learning from Implicit  Human Feedback](https://arxiv.org/abs/2507.13171v1) 💻  
 *Suzie Kim, Hye-Bin Shin, Seong-Whan Lee*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13171v1.pdf) | `cs.RO, cs.AI`
 
-**109.** [SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on  Multimodal Large Language ...](https://arxiv.org/abs/2507.13152v1) 💻  
+**110.** [SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on  Multimodal Large Language ...](https://arxiv.org/abs/2507.13152v1) 💻  
 *Xiangyu Dong et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13152v1.pdf) | `cs.CV, cs.AI, cs.RO`
 
-**110.** [DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation  Model](https://arxiv.org/abs/2507.13145v1) 💻  
+**111.** [DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation  Model](https://arxiv.org/abs/2507.13145v1) 💻  
 *Maulana Bisyir Azhari, David Hyunchul Shim*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13145v1.pdf) | `cs.CV, cs.AI, cs.RO`
 
-**111.** [GraspGen: A Diffusion-based Framework for 6-DOF Grasping with  On-Generator Training](https://arxiv.org/abs/2507.13097v1) 💻  
+**112.** [GraspGen: A Diffusion-based Framework for 6-DOF Grasping with  On-Generator Training](https://arxiv.org/abs/2507.13097v1) 💻  
 *Adithyavairavan Murali et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13097v1.pdf) | `cs.RO, cs.AI`
 
-**112.** [ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning](https://arxiv.org/abs/2507.13088v1) 💻  
+**113.** [ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning](https://arxiv.org/abs/2507.13088v1) 💻  
 *Rahel Rickenbach et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13088v1.pdf) | `cs.RO, cs.SY, eess.SY`
 
-**113.** [Channel-wise Motion Features for Efficient Motion Segmentation](https://arxiv.org/abs/2507.13082v1) 💻  
+**114.** [Channel-wise Motion Features for Efficient Motion Segmentation](https://arxiv.org/abs/2507.13082v1) 💻  
 *Riku Inoue, Masamitsu Tsuchiya, Yuji Yasui*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13082v1.pdf) | `cs.CV`
 
-**114.** [Efficient Online Learning and Adaptive Planning for Robotic Information  Gathering Based on Strea...](https://arxiv.org/abs/2507.13053v1) 💻  
+**115.** [Efficient Online Learning and Adaptive Planning for Robotic Information  Gathering Based on Strea...](https://arxiv.org/abs/2507.13053v1) 💻  
 *Sanjeev Ramkumar Sudha, Joel Jose, Erlend M. Coates*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13053v1.pdf) | `cs.RO`
 
-**115.** [Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient  Communication](https://arxiv.org/abs/2507.13052v1) 💻  
+**116.** [Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient  Communication](https://arxiv.org/abs/2507.13052v1) 💻  
 *Tianyu Song et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13052v1.pdf) | `cs.HC, cs.RO`
 
-**116.** [What Can Robots Teach Us About Trust and Reliance? An interdisciplinary  dialogue between Social ...](https://arxiv.org/abs/2507.13041v1) 💻  
+**117.** [What Can Robots Teach Us About Trust and Reliance? An interdisciplinary  dialogue between Social ...](https://arxiv.org/abs/2507.13041v1) 💻  
 *Julien Wacquez et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13041v1.pdf) | `cs.RO`
 
-**117.** [Rethinking the Embodied Gap in Vision-and-Language Navigation: A  Holistic Study of Physical and ...](https://arxiv.org/abs/2507.13019v1) 💻  
+**118.** [Rethinking the Embodied Gap in Vision-and-Language Navigation: A  Holistic Study of Physical and ...](https://arxiv.org/abs/2507.13019v1) 💻  
 *Liuyi Wang et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13019v1.pdf) | `cs.RO, cs.AI, cs.CL`
 
-**118.** [CubeSat Orbit Insertion Maneuvering Using J2 Perturbation](https://arxiv.org/abs/2507.13017v1) 💻  
+**119.** [CubeSat Orbit Insertion Maneuvering Using J2 Perturbation](https://arxiv.org/abs/2507.13017v1) 💻  
 *M. Amin Alandihallaj, M. Reza Emami*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.13017v1.pdf) | `astro-ph.EP, astro-ph.IM, cs.RO`
 
-**119.** [Robustness Requirement Coverage using a Situation Coverage Approach for  Vision-based AI Systems](https://arxiv.org/abs/2507.12986v1) 💻  
+**120.** [Robustness Requirement Coverage using a Situation Coverage Approach for  Vision-based AI Systems](https://arxiv.org/abs/2507.12986v1) 💻  
 *Sepeedeh Shahbeigi et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12986v1.pdf) | `cs.RO`
 
-**120.** [Non-differentiable Reward Optimization for Diffusion-based Autonomous  Motion Planning](https://arxiv.org/abs/2507.12977v1) 💻  
+**121.** [Non-differentiable Reward Optimization for Diffusion-based Autonomous  Motion Planning](https://arxiv.org/abs/2507.12977v1) 💻  
 *Giwon Lee et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12977v1.pdf) | `cs.RO`
 
-**121.** [MoCap2GT: A High-Precision Ground Truth Estimator for SLAM Benchmarking  Based on Motion Capture ...](https://arxiv.org/abs/2507.12920v1) 💻  
+**122.** [MoCap2GT: A High-Precision Ground Truth Estimator for SLAM Benchmarking  Based on Motion Capture ...](https://arxiv.org/abs/2507.12920v1) 💻  
 *Zichao Shu et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12920v1.pdf) | `cs.RO`
 
-**122.** [LaViPlan : Language-Guided Visual Path Planning with RLVR](https://arxiv.org/abs/2507.12911v1) 💻  
+**123.** [LaViPlan : Language-Guided Visual Path Planning with RLVR](https://arxiv.org/abs/2507.12911v1) 💻  
 *Hayeon Oh*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12911v1.pdf) | `cs.RO, cs.LG`
 
-**123.** [Generalist Bimanual Manipulation via Foundation Video Diffusion Models](https://arxiv.org/abs/2507.12898v1) 💻  
+**124.** [Generalist Bimanual Manipulation via Foundation Video Diffusion Models](https://arxiv.org/abs/2507.12898v1) 💻  
 *Yao Feng et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12898v1.pdf) | `cs.LG, cs.RO`
 
-**124.** [DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task  Demonstration Learning](https://arxiv.org/abs/2507.12855v1) 💻  
+**125.** [DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task  Demonstration Learning](https://arxiv.org/abs/2507.12855v1) 💻  
 *Rahel Rickenbach et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12855v1.pdf) | `cs.RO, cs.SY, eess.SY`
 
-**125.** [Enter the Mind Palace: Reasoning and Planning for Long-term Active  Embodied Question Answering](https://arxiv.org/abs/2507.12846v1) 💻  
+**126.** [Enter the Mind Palace: Reasoning and Planning for Long-term Active  Embodied Question Answering](https://arxiv.org/abs/2507.12846v1) 💻  
 *Muhammad Fadhil Ginting et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12846v1.pdf) | `cs.RO, cs.AI`
 
-**126.** [FFI-VTR: Lightweight and Robust Visual Teach and Repeat Navigation based  on Feature Flow Indicat...](https://arxiv.org/abs/2507.12800v1) 💻  
+**127.** [FFI-VTR: Lightweight and Robust Visual Teach and Repeat Navigation based  on Feature Flow Indicat...](https://arxiv.org/abs/2507.12800v1) 💻  
 *Jikai Wang, Yunqi Cheng, Zonghai Chen*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12800v1.pdf) | `cs.RO`
 
-**127.** [AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation](https://arxiv.org/abs/2507.12768v1) 💻  
+**128.** [AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation](https://arxiv.org/abs/2507.12768v1) 💻  
 *Hengkai Tan et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12768v1.pdf) | `cs.CV, cs.LG, cs.RO`
 
-**128.** [Continuous Marine Tracking via Autonomous UAV Handoff](https://arxiv.org/abs/2507.12763v1) 💻  
+**129.** [Continuous Marine Tracking via Autonomous UAV Handoff](https://arxiv.org/abs/2507.12763v1) 💻  
 *Heegyeong Kim et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12763v1.pdf) | `cs.CV, cs.RO`
 
-**129.** [osmAG-LLM: Zero-Shot Open-Vocabulary Object Navigation via Semantic Maps  and Large Language Mode...](https://arxiv.org/abs/2507.12753v1) 💻  
+**130.** [osmAG-LLM: Zero-Shot Open-Vocabulary Object Navigation via Semantic Maps  and Large Language Mode...](https://arxiv.org/abs/2507.12753v1) 💻  
 *Fujing Xie, Sören Schwertfeger, Hermann Blum*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12753v1.pdf) | `cs.RO`
 
-**130.** [Refining Motion for Peak Performance: Identifying Optimal Gait  Parameters for Energy-Efficient Q...](https://arxiv.org/abs/2507.12751v1) 💻  
+**131.** [Refining Motion for Peak Performance: Identifying Optimal Gait  Parameters for Energy-Efficient Q...](https://arxiv.org/abs/2507.12751v1) 💻  
 *Yasser G. Alqaham, Jing Cheng, Zhenyu Gan*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12751v1.pdf) | `cs.RO`
 
-**131.** [ASC-SW: Atrous strip convolution network with sliding windows for  visual-assisted map navigation](https://arxiv.org/abs/2507.12744v1) 💻  
+**132.** [ASC-SW: Atrous strip convolution network with sliding windows for  visual-assisted map navigation](https://arxiv.org/abs/2507.12744v1) 💻  
 *Cheng Liu, Fan Zhu, Yaoyu Zhuang Zhinan Chen Jiefeng Tang*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12744v1.pdf) | `cs.RO`
 
-**132.** [Public Evaluation on Potential Social Impacts of Fully Autonomous  Cybernetic Avatars for Physica...](https://arxiv.org/abs/2507.12741v1) 💻  
+**133.** [Public Evaluation on Potential Social Impacts of Fully Autonomous  Cybernetic Avatars for Physica...](https://arxiv.org/abs/2507.12741v1) 💻  
 *Lotfi El Hafi et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12741v1.pdf) | `cs.HC, cs.RO`
 
-**133.** [Learning to Predict Mobile Robot Stability in Off-Road Environments](https://arxiv.org/abs/2507.12731v1) 💻  
+**134.** [Learning to Predict Mobile Robot Stability in Off-Road Environments](https://arxiv.org/abs/2507.12731v1) 💻  
 *Nathaniel Rose et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12731v1.pdf) | `cs.RO`
 
-**134.** [MoistureMapper: An Autonomous Mobile Robot for High-Resolution Soil  Moisture Mapping at Scale](https://arxiv.org/abs/2507.12716v1) 💻  
+**135.** [MoistureMapper: An Autonomous Mobile Robot for High-Resolution Soil  Moisture Mapping at Scale](https://arxiv.org/abs/2507.12716v1) 💻  
 *Nathaniel Rose et al.*  
 📅 2025-07-17 | [PDF](https://arxiv.org/pdf/2507.12716v1.pdf) | `cs.RO`
 
-**135.** [VLMgineer: Vision Language Models as Robotic Toolsmiths](https://arxiv.org/abs/2507.12644v1) 💻  
+**136.** [VLMgineer: Vision Language Models as Robotic Toolsmiths](https://arxiv.org/abs/2507.12644v1) 💻  
 *George Jiayuan Gao et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12644v1.pdf) | `cs.RO, cs.AI, cs.LG`
 
-**136.** [Deep Bilinear Koopman Model for Real-Time Vehicle Control in Frenet  Frame](https://arxiv.org/abs/2507.12578v1) 💻  
+**137.** [Deep Bilinear Koopman Model for Real-Time Vehicle Control in Frenet  Frame](https://arxiv.org/abs/2507.12578v1) 💻  
 *Mohammad Abtahi et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12578v1.pdf) | `eess.SY, cs.LG, cs.RO`
 
-**137.** [MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](https://arxiv.org/abs/2507.12508v1) 💻  
+**138.** [MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](https://arxiv.org/abs/2507.12508v1) 💻  
 *Yuncong Yang et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12508v1.pdf) | `cs.CV, cs.AI, cs.RO`
 
-**138.** [EgoVLA: Learning Vision-Language-Action Models from Egocentric Human  Videos](https://arxiv.org/abs/2507.12440v2) 💻  
+**139.** [EgoVLA: Learning Vision-Language-Action Models from Egocentric Human  Videos](https://arxiv.org/abs/2507.12440v2) 💻  
 *Ruihan Yang et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12440v2.pdf) | `cs.RO, cs.AI, cs.CV`
 
-**139.** [Design and Development of an Automated Contact Angle Tester (ACAT) for  Surface Wettability Measu...](https://arxiv.org/abs/2507.12431v1) 💻  
+**140.** [Design and Development of an Automated Contact Angle Tester (ACAT) for  Surface Wettability Measu...](https://arxiv.org/abs/2507.12431v1) 💻  
 *Connor Burgess, Kyle Douin, Amir Kordijazi*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12431v1.pdf) | `cs.RO, physics.ins-det`
 
-**140.** [AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models](https://arxiv.org/abs/2507.12414v1) 💻  
+**141.** [AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models](https://arxiv.org/abs/2507.12414v1) 💻  
 *Santosh Vasa et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12414v1.pdf) | `cs.CV, cs.AI, cs.LG`
 
-**141.** [Regrasp Maps for Sequential Manipulation Planning](https://arxiv.org/abs/2507.12407v1) 💻  
+**142.** [Regrasp Maps for Sequential Manipulation Planning](https://arxiv.org/abs/2507.12407v1) 💻  
 *Svetlana Levit, Marc Toussaint*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12407v1.pdf) | `cs.RO`
 
-**142.** [Assessing the Value of Visual Input: A Benchmark of Multimodal Large  Language Models for Robotic...](https://arxiv.org/abs/2507.12391v1) 💻  
+**143.** [Assessing the Value of Visual Input: A Benchmark of Multimodal Large  Language Models for Robotic...](https://arxiv.org/abs/2507.12391v1) 💻  
 *Jacinto Colan, Ana Davila, Yasuhisa Hasegawa*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12391v1.pdf) | `cs.RO`
 
-**143.** [Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction  with an Agentic Robot](https://arxiv.org/abs/2507.12273v2) 💻  
+**144.** [Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction  with an Agentic Robot](https://arxiv.org/abs/2507.12273v2) 💻  
 *Luca Garello et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12273v2.pdf) | `cs.RO`
 
-**144.** [UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic  LiDAR Global Localization](https://arxiv.org/abs/2507.12194v1) 💻  
+**145.** [UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic  LiDAR Global Localization](https://arxiv.org/abs/2507.12194v1) 💻  
 *Hongming Shen et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12194v1.pdf) | `cs.RO`
 
-**145.** [Fast and Scalable Game-Theoretic Trajectory Planning with Intentional  Uncertainties](https://arxiv.org/abs/2507.12174v1) 💻  
+**146.** [Fast and Scalable Game-Theoretic Trajectory Planning with Intentional  Uncertainties](https://arxiv.org/abs/2507.12174v1) 💻  
 *Zhenmin Huang et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12174v1.pdf) | `cs.RO, cs.MA`
 
-**146.** [Probabilistic Safety Verification for an Autonomous Ground Vehicle: A  Situation Coverage Grid Ap...](https://arxiv.org/abs/2507.12158v1) 💻  
+**147.** [Probabilistic Safety Verification for an Autonomous Ground Vehicle: A  Situation Coverage Grid Ap...](https://arxiv.org/abs/2507.12158v1) 💻  
 *Nawshin Mannan Proma et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12158v1.pdf) | `cs.RO`
 
-**147.** [Leveraging Sidewalk Robots for Walkability-Related Analyses](https://arxiv.org/abs/2507.12148v1) 💻  
+**148.** [Leveraging Sidewalk Robots for Walkability-Related Analyses](https://arxiv.org/abs/2507.12148v1) 💻  
 *Xing Tong et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12148v1.pdf) | `cs.RO`
 
-**148.** [Tree-SLAM: semantic object SLAM for efficient mapping of individual  trees in orchards](https://arxiv.org/abs/2507.12093v1) 💻  
+**149.** [Tree-SLAM: semantic object SLAM for efficient mapping of individual  trees in orchards](https://arxiv.org/abs/2507.12093v1) 💻  
 *David Rapado-Rincon, Gert Kootstra*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12093v1.pdf) | `cs.RO`
 
-**149.** [Foresight in Motion: Reinforcing Trajectory Prediction with Reward  Heuristics](https://arxiv.org/abs/2507.12083v1) 💻  
+**150.** [Foresight in Motion: Reinforcing Trajectory Prediction with Reward  Heuristics](https://arxiv.org/abs/2507.12083v1) 💻  
 *Muleilan Pei et al.*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12083v1.pdf) | `cs.CV, cs.RO`
 
-**150.** [Robust Route Planning for Sidewalk Delivery Robots](https://arxiv.org/abs/2507.12067v1) 💻  
+**151.** [Robust Route Planning for Sidewalk Delivery Robots](https://arxiv.org/abs/2507.12067v1) 💻  
 *Xing Tong, Michele D. Simoni*  
 📅 2025-07-16 | [PDF](https://arxiv.org/pdf/2507.12067v1.pdf) | `cs.RO`
 
@@ -6173,9 +6171,9 @@ Curated collection of trending awesome lists in AI/ML space (updated weekly):
 
 ## 📊 Statistics
 
-- **Total Papers**: 1500
+- **Total Papers**: 1501
 - **Topics Covered**: 10
-- **Awesome Lists Tracked**: 26
+- **Awesome Lists Tracked**: 20
 - **Data Sources**: arXiv + GitHub
 - **Update Method**: Automated crawling + AI filtering
 - **Coverage**: Last 7 days of submissions
@@ -6219,4 +6217,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**🎯 Real data from arXiv + GitHub | 📅 Updated July 29, 2025 | 🔥 1500 papers + 26 awesome lists**
+**🎯 Real data from arXiv + GitHub | 📅 Updated July 29, 2025 | 🔥 1501 papers + 20 awesome lists**
